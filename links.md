@@ -13,3 +13,5 @@ date:   2018-07-20
 [https://bl.ocks.org/rpgove/raw/386b7a28977a179717a460f9a541af2a/](https://bl.ocks.org/rpgove/raw/386b7a28977a179717a460f9a541af2a/)
 
 [https://bl.ocks.org/rpgove/raw/bf44631829eaa6512518005697649cb4/](https://bl.ocks.org/rpgove/raw/bf44631829eaa6512518005697649cb4/)
+
+[https://bost.ocks.org/mike/miserables/](https://bost.ocks.org/mike/miserables/)
